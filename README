@@ -1,0 +1,5 @@
+How to run program:
+
+Run a live server so textures load. In atom, I just installed the live-server package. To use that you just need to click on View,
+Toggle command palette, and then type server to choose one of the live servers. Assuming you were in the correct directory, you
+just need to click on lighting_scene.html.  
